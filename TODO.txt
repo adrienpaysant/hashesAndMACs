@@ -1,0 +1,1 @@
+MAC -> Attack, Différent type de MAC/HASH, Implémentation d'une petite library
